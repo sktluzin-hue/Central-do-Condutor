@@ -1,0 +1,7 @@
+{
+  "name": "Central do Condutor",
+  "description": "Uma plataforma completa e moderna para motoristas gerenciarem seus veículos, gastos, revisões e conhecimento automotivo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
